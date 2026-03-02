@@ -32,10 +32,10 @@ Here are the main topics I'm learning and documenting step by step:
 
 1. [Linux Basics]().  
 2. [Bash Scripting](https://github.com/tuusuario/my-devops-journey/tree/main/02-bash-scripting)  
-3. [Python for DevOps](https://github.com/tuusuario/my-devops-journey/tree/main/03-python-for-devops)  
+3. [Python for DevOps](https://github.com/99Diego/python-katas-devops)  
 4. [CI/CD Pipelines](https://github.com/tuusuario/my-devops-journey/tree/main/04-ci-cd)  
 5. [Docker Projects](https://github.com/99Diego/docker-wordpress-mysql)  
-6. [Kubernetes Labs](https://github.com/tuusuario/my-devops-journey/tree/main/06-kubernetes)  
+6. [Kubernetes Labs](https://github.com/99Diego/Kubernetes-3-Tier-Application-Deployment)  
 7. [Infrastructure as Code](https://github.com/tuusuario/my-devops-journey/tree/main/07-iac)  
 
 ---
